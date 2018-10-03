@@ -1,2 +1,4 @@
 # EchoServer
-echo server is created using golang echo framework. 
+
+EchoServer is http server built on top of echo go framework. we have used logrus library for logging.
+
